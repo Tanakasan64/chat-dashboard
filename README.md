@@ -43,7 +43,7 @@ A free, privacy-first tool to organize your AI conversations across multiple pla
 No download needed - just click and start organizing!
 
 ### Option 2: Download and Run Locally
-1. **Download** (https://github.com/Tanakasan64/chat-dashboard/blob/main/chat_dashboard_english.html)
+1. **Download** (https://github.com/sinisapetrovic/chat-dashboard/blob/main/chat_dashboard_english.html)
 2. **Open** the file in any modern browser (Chrome, Firefox, Safari, Edge)
 3. **Start adding** your AI chat links
 4. That's it! No installation, no setup.

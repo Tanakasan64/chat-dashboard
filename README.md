@@ -38,7 +38,7 @@ A free, privacy-first tool to organize your AI conversations across multiple pla
 ## 🚀 Quick Start
 
 ### Option 1: Try Online (Recommended)
-**(https://github.com/Tanakasan64/chat-dashboard/blob/main/chat_dashboard_english.html)** 
+**(https://github.com/sinisapetrovic/chat-dashboard/blob/main/chat_dashboard_english.html)** 
 
 No download needed - just click and start organizing!
 
@@ -51,7 +51,7 @@ No download needed - just click and start organizing!
 ### Option 3: Try with Demo Data
 Want to see it in action immediately?
 1. Download the dashboard (see Option 2)
-2. Download (https://github.com/Tanakasan64/chat-dashboard/blob/main/chat_dashboard_demo_data.json)
+2. Download (https://github.com/sinisapetrovic/chat-dashboard/blob/main/chat_dashboard_demo_data.json)
 3. Open dashboard → Click **⚙️ Manage** → **Import Data** → Select demo JSON
 4. Explore 30 sample conversations across coding, writing, language learning, and more
 

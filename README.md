@@ -37,18 +37,13 @@ A free, privacy-first tool to organize your AI conversations across multiple pla
 
 ## 🚀 Quick Start
 
-### Option 1: Try Online (Recommended)
-**(https://sinisapetrovic.github.io/chat-dashboard/chat_dashboard_english.html)** 
-
-No download needed - just click and start organizing!
-
-### Option 2: Download and Run Locally
+### Step 1: Download and Run Locally
 1. **Download** (https://github.com/sinisapetrovic/chat-dashboard/blob/main/chat_dashboard_english.html)
 2. **Open** the file in any modern browser (Chrome, Firefox, Safari, Edge)
 3. **Start adding** your AI chat links
 4. That's it! No installation, no setup.
 
-### Option 3: Try with Demo Data
+### Step 2: Try with Demo Data
 Want to see it in action immediately?
 1. Download the dashboard (see Option 2)
 2. Download (https://github.com/sinisapetrovic/chat-dashboard/blob/main/chat_dashboard_demo_data.json)

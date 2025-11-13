@@ -43,7 +43,7 @@ A free, privacy-first tool to organize your AI conversations across multiple pla
 No download needed - just click and start organizing!
 
 ### Option 2: Download and Run Locally
-1. **Download** [chat_dashboard_english_3.html](https://github.com/YOUR-USERNAME/chat-dashboard/raw/main/chat_dashboard_english_3.html)
+1. **Download** (https://github.com/Tanakasan64/chat-dashboard/blob/main/chat_dashboard_english.html)
 2. **Open** the file in any modern browser (Chrome, Firefox, Safari, Edge)
 3. **Start adding** your AI chat links
 4. That's it! No installation, no setup.
@@ -51,7 +51,7 @@ No download needed - just click and start organizing!
 ### Option 3: Try with Demo Data
 Want to see it in action immediately?
 1. Download the dashboard (see Option 2)
-2. Download [demo data](https://github.com/YOUR-USERNAME/chat-dashboard/raw/main/chat_dashboard_demo_data.json)
+2. Download (https://github.com/Tanakasan64/chat-dashboard/blob/main/chat_dashboard_demo_data.json)
 3. Open dashboard → Click **⚙️ Manage** → **Import Data** → Select demo JSON
 4. Explore 30 sample conversations across coding, writing, language learning, and more
 
